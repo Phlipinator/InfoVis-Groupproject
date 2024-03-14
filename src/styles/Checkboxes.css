@@ -1,0 +1,21 @@
+#Checkboxes{
+    display: grid;
+    width: auto;
+    grid-template-columns: 1fr 1fr;
+    border-color: #001219;
+    border-width: 5px;
+    border-style: solid;
+    font-weight: bolder;
+
+}
+
+.column{
+    padding-top: 15px;
+    padding-left: 15px;
+    display: grid;
+}
+
+
+.checkboxes{
+    accent-color:  #EE9B00;
+}

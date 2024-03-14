@@ -1,0 +1,59 @@
+.content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.wrapper{
+    margin: 50px;
+    padding: 30px;
+    border-color: #001219;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 4fr 6fr;
+}
+
+#columnLeft{
+    display: grid;
+    grid-template-rows: 0.9fr 0.3fr 5fr 0.1fr 1.5fr 0.1fr 0.5fr;
+
+}
+
+#columnRight{
+    display: grid;
+    min-width: 800px;
+    grid-template-columns: 5fr 95fr;
+    grid-template-rows: 12fr 66fr 1fr 5fr;
+
+}
+
+#Charts{
+    border-color: #001219;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#MapContainer {
+    border-color: #001219;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#SliderContainer {
+    border-color: #001219;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#HelperContainer{
+
+}
+
+html, body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+

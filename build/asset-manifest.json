@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/~hubermic/static/css/main.973d31e2.css",
+    "main.js": "/~hubermic/static/js/main.075beb42.js",
+    "static/media/data_latlong_ctry_cat_year.csv": "/~hubermic/static/media/data_latlong_ctry_cat_year.f608f2dcad83300f94a0.csv",
+    "static/media/OverviewHelperSmall.png": "/~hubermic/static/media/OverviewHelperSmall.e3ff4fe9c55297e2a5ad.png",
+    "static/media/CompareHelperSmall.png": "/~hubermic/static/media/CompareHelperSmall.d7b4651450caf25fc7d5.png",
+    "index.html": "/~hubermic/index.html",
+    "main.973d31e2.css.map": "/~hubermic/static/css/main.973d31e2.css.map",
+    "main.075beb42.js.map": "/~hubermic/static/js/main.075beb42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973d31e2.css",
+    "static/js/main.075beb42.js"
+  ]
+}
